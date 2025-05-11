@@ -1,5 +1,4 @@
 # 🌳 BinaryTree - Visualizador de Árvore Binária
-=============================================
 
 ## 📌 Sobre o Projeto
 Este projeto é uma aplicação gráfica simples desenvolvida em Python com a biblioteca Tkinter. 
